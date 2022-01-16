@@ -1,0 +1,10 @@
+from datetime import date
+name = input("Enter your name : ")
+age = input("Enter your age : ")
+remaining = 100 - int(age)
+todays_date = date.today()
+n = int(input("Enter a number : "))
+
+year = todays_date.year + remaining
+
+print(("Dear "+ name + " You will turn 100 years old in the year : " + str(year)+"\n")*n)
