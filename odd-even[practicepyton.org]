@@ -1,0 +1,15 @@
+num = int(input("Enter a number : "))
+check = int(input("Enter a number to check : "))
+
+if num % 2 == 0:
+    print("Even Number")
+else:
+    print("it is an odd number")
+if num % 4 == 0:
+    print("The number is a multiple of 4")
+else:
+    print("the number is not a multiple of 4")
+if num % check == 0 :
+    print(str(num) + "is multiple of " + str(check))
+else:
+    print("The number is not a multiple of " + str(check))
