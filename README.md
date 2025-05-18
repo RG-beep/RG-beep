@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RG-beep
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Python and Statistics
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me : goyal.iiitm@gmail.com
 
